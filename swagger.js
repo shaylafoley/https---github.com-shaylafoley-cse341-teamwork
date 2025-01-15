@@ -3,7 +3,7 @@ const swaggerAutogen = require('swagger-autogen')();
 const doc = {
   info: {
     title: 'Team Activity Assignment 1',
-    description: 'Description'
+    description: 'Temple API'
   },
   host: 'localhost:8080'
 };
